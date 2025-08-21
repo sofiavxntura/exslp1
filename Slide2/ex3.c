@@ -15,5 +15,5 @@ int main(){
 }
 
 //TERMINAL
-//gcc -o ex2 ex2.c
-// ./ex2
+//gcc -o ex3 ex3.c
+// ./ex3
