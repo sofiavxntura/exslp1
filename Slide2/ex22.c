@@ -17,5 +17,6 @@ int main(){
 }
 
 //TERMINAL (COMPILANDO)
-// gcc -o ex1 ex1.c
-// ./ex1
+// gcc -o ex2 ex2.c
+// ./ex2
+
