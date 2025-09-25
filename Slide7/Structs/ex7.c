@@ -27,7 +27,7 @@ int main(void){
 
     struct Season dados;
     preenche(&dados);
-    printf("--------------");
+    printf("--------------\n");
     printf("DADOS\n");
     printf("Estação: %s\n",dados.nome);
     printf("Início em: %s\n",dados.mesinicio);
