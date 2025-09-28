@@ -14,12 +14,12 @@ int tamanho(char *str){
 
 
 int main(){
-    char var[100];
+    char palavra[100];
 
     printf("Insira sua string: ");
-    scanf("%99s",var); //limitar a 99
-    int size = tamanho(var);
-    printf("Tamanho da string '%s': %d\n",var,size);
+    scanf("%99s",palavra); //limitar a 99
+    int size = tamanho(palavra);
+    printf("Tamanho da string '%s': %d\n",palavra,size);
 
 
     return 0;
