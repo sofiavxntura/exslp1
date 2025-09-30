@@ -7,7 +7,7 @@ int eh_primo(int p) {
             return 0;
         }
     }
-    return 1; // não conseguiu dividir com nada
+    return 1; //não conseguiu dividir com nada
 }
 
 int todos_os_primos(int k) {
