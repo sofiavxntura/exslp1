@@ -16,5 +16,5 @@ int main(){
 
     printf("Tamanho da string: %d caracteres",tamanho);
     
-    return 0;
+    return 0; 
 }
