@@ -5,6 +5,11 @@ int main(){
     char texto[26];
     FILE *arq1 = fopen("arquivo1.txt","w"); //w = write
 
+    if (arq1 == NULL) {
+        printf("ERRO");
+        return 1;
+    }
+
     printf("Insira uma string (máx 25 caracteres): ");
     scanf("%25s",texto);
 
